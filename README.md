@@ -69,6 +69,6 @@
 
 ###
 
-<p align="left">- Hire a Python programmer or data analyst for your company.<br>- Get assistance with Power BI, spreadsheet work (e.g., creating dashboards, data cleaning, etc.).<br>- Conduct data exploratory analysis or generate reports.<br>- Obtain Python script development services.<br>- Receive assistance with machine learning models or your project.</p>
+<p align="left">- I offer web scraping services using Python to gather data from various sources.<br>- I provide data analysis and machine learning services to help you gain insights and make informed decisions.</p>
 
 ###
