@@ -49,6 +49,10 @@
 
 ###
 
+<h6>Python / Java / C++ / Dart / JS / MySQL / C</h6>
+
+###
+
 <p align="left">- Get a tutor for university syllabus and assignments.<br>- Hire a programming instructor for your company or take a course individually.<br>- Join a fundamental or advanced programming course.<br>- Seek expert help for problem-solving during programming tasks.</p>
 
 ###
